@@ -1,6 +1,14 @@
 ![Banner](https://raw.githubusercontent.com/Arunkumarakula/Arunkumarakula/main/banner.png)
 
 # 👋 Hi, I'm Arun Kumar Akula
+AWS DevOps Engineer | Cloud & DevOps Practitioner  
+🚀 DevOps | Cloud | AWS & Azure | Docker | Kubernetes | Terraform | CI/CD | Monitoring
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/arun-kumar-akula) 
+[![Gmail](https://img.shields.io/badge/Gmail-arunkumarakula58@gmail.com-red?logo=gmail&style=flat-square)](mailto:arunkumarakula58@gmail.com)
+
+
+# 👋 Hi, I'm Arun Kumar Akula
 AWS DevOps Engineer @ AJA Consulting Services
 🚀 DevOps | Cloud | AWS & Azure | Docker | Kubernetes | Terraform | CI/CD | Monitoring
 
