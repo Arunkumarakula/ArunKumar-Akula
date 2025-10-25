@@ -1,4 +1,4 @@
-![Banner](https://github.com/Arunkumarakula/ArunKumar-Akula/raw/main/banner.png.png)
+![Banner](https://github.com/Arunkumarakula/ArunKumar-Akula/raw/main/banner.png)
 
 # 👋 Hi, I'm Arun Kumar Akula
 AWS DevOps Engineer @ AJA Consulting Services
