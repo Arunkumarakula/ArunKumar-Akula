@@ -3,7 +3,7 @@ AWS DevOps Engineer @ AJA Consulting Services
 🚀 DevOps | Cloud | AWS & Azure | Docker | Kubernetes | Terraform | CI/CD | Monitoring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-akula)
-📧 Email: [arunkumarakula58@gmail.com](mailto:arunkumarakula58@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Arun-red?logo=gmail&style=flat-square)](mailto:arunkumarakula58@gmail.com)
 
 
 ---
