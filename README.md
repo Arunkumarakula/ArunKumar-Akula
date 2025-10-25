@@ -68,6 +68,3 @@ My focus is on automation, observability, and security across cloud platforms, l
 
 ---
 
-## 🔗 Let’s Connect
-- 📧 Email: [arunkumarakula58@gmail.com](mailto:arunkumarakula58@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arunkumarakula)  
