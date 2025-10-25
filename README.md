@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Arunkumarakula/Arunkumarakula/main/banner.png)
+
 # 👋 Hi, I'm Arun Kumar Akula
 AWS DevOps Engineer @ AJA Consulting Services
 🚀 DevOps | Cloud | AWS & Azure | Docker | Kubernetes | Terraform | CI/CD | Monitoring
